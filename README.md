@@ -22,3 +22,16 @@ CareerFlow is a Python-based application that helps users track job applications
 Run the following command:
 
 python main.py
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/add.png)
+
+### View Applications
+
+![View](screenshots/view.png)
+
+### Search Application
+
+![Search](screenshots/search.png)
